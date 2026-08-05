@@ -1,16 +1,16 @@
-## Hi there 👋
+🚀 Praveen S
+Full Stack Developer | MERN Stack | Java & Spring Boot Enthusiast
 
-<!--
-**Praveen1104/Praveen1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Passionate about building scalable, high-performance web applications and secure backend systems.
 
-Here are some ideas to get you started:
+🎯 2+ years of professional experience developing enterprise applications using React.js, JavaScript, TypeScript, Node.js, Express.js, Java, Spring Boot, Spring Security, Spring Data JPA, Hibernate, MongoDB, MySQL, Redis, RabbitMQ, Docker, and REST APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Experienced in building real-time applications, event-driven architectures, analytics dashboards, secure authentication systems, and enterprise-grade REST APIs.
+
+📌 Currently working as Software Developer at Quantum Sharq Digital Systems Pvt. Ltd.
+
+📧 Email: impraveenbosco@gmail.com
+
+📞 Phone: +91-8637468236
+
+📍 Location: Krishnagiri, Tamil Nadu, India
